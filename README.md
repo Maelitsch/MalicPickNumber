@@ -5,7 +5,7 @@ Dieses Projekt habe ich als Übung erstellt, um Schleifen, Bedingungen, Fehlerbe
 
 ---
 
-## 🚀 Features
+## 🚀 Funktionen
 - Auswahl des Schwierigkeitsgrads (leicht, mittel, schwer)  
 - Zufallszahl-Generierung mit `Random`  
 - Tipps „zu hoch“ / „zu niedrig“  
