@@ -1,7 +1,8 @@
 # Pick A Number 🎲
 
 Ein kleines Konsolenspiel in **C#**, bei dem der Spieler eine geheime Zahl erraten muss.  
-Dieses Projekt habe ich als Übung erstellt, um Schleifen, Bedingungen, Fehlerbehandlung und Zufallszahlen in C# besser zu verstehen.  
+Dieses Projekt habe ich als Übung erstellt, um Schleifen, Bedingungen und Zufallszahlen in C# besser zu verstehen.  
+Entpacke die ZIP, sonst lässt sich die .exe nicht starten.
 
 ---
 
